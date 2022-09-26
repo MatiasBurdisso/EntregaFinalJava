@@ -1,0 +1,18 @@
+.noche{
+    background-image: url(../img/canchadia.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    color: rgb(10, 10, 10);
+}
+.dia{
+    background-image: url(../img/canchanoche.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+   
+    
+}
+.letranegra{
+    color:rgb(30, 14, 175)
+}
